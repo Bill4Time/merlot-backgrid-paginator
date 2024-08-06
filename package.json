@@ -1,6 +1,6 @@
 {
   "name": "@bill4time/backgrid-paginator",
-  "version": "0.3.10",
+  "version": "0.4.0",
   "description": "Backgrid.js extension for pagination.",
   "main": "backgrid-paginator.js",
   "style": "backgrid-paginator.css",
