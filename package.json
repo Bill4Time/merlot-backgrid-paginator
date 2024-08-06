@@ -1,5 +1,5 @@
 {
-  "name": "@bill4time/backgrid-paginator",
+  "name": "@bill4time/merlot-backgrid-paginator",
   "version": "0.4.0",
   "description": "Backgrid.js extension for pagination.",
   "main": "backgrid-paginator.js",
